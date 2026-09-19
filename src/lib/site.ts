@@ -14,8 +14,8 @@ export const navItems: NavItem[] = [
 export const CONTACT = {
   name: "Fried Up",
   tagline: "Crispy. Bold. Fresh.",
-  phone: "020 3859 1742",
-  phoneHref: "tel:02038591742",
+  phone: "+44 20 3859 1742",
+  phoneHref: "tel:+442038591742",
   address: {
     line1: "4, West Ruislip Station, Ickenham Rd",
     line2: "Ickenham, Ruislip, HA4 7DW",
